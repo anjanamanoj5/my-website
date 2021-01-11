@@ -1,0 +1,47 @@
+/*
+  Styles from this codepen:
+  https://codepen.io/official_naveen/pen/rgknI
+*/
+
+body {
+    width: 1000px;
+    height: 800;
+    margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
+  }
+  .container {
+    width: 600px;
+    margin: 0 auto;
+  }
+  fieldset {
+    display: block;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-before: 0em;
+    -webkit-padding-start: 0em;
+    -webkit-padding-end: 0em;
+    -webkit-padding-after: 0em;
+    border: 0px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    min-width: -webkit-min-content;
+    padding: 30px;
+  }
+  p{padding-top: 300px;
+    padding-left: 700px;
+    color: black;
+    background-color: transparent;
+    font-size:70px;
+    font-weight: 300px;
+    align-content: center;
+  }
+  h1{
+    color: bisque;
+    background-color: transparent;
+    font-size:50px;
+    font-weight: 200;
+    align-content: center;
+  }
